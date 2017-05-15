@@ -18,3 +18,7 @@ at some point. It will create an iso file for you.
 
 ## Run
 Guess what: `./run.sh`.
+
+## License
+
+![WTFPL](wtfpl.png)
